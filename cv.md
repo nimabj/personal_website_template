@@ -12,7 +12,7 @@ comments: false
 ## My abilities
 
 - web design: I love this job and I started when I was about 13 years old.
-- My work sample : https://yasharheshmati.ir
+- My work sample : [see!](https://yasharheshmati.ir)
 - Futsal: I am interested in sports and futsal and I played for the Iraqi Martyr team for about 2 years.
 
 ## Where did I study?
@@ -27,7 +27,7 @@ comments: false
 - Interest in programming and computers
 - Interested in entrepreneurship
 
-![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
+![Painting](/assets/images/sharif.jpg)
 
 
 <iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
