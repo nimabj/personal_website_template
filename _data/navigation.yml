@@ -1,20 +1,20 @@
 # main links
 main:
-  - title: "CV"
+  - title: "CV📃"
     url: /cv/
 #  - title: "Courses"
 #   url: /courses/
-  - title: "project"
-    url: /project/
+#  - title: "project"
+#    url: /project/
 #  - title: "Friends"
 #    url: /friends/
-  - title: "Links"
-    url: /links/
-  - title: "Hobbies"
-    url: /hobbies/  
-  - title: "Gallery"
-    url: /gallery/
-  - title: "Blog"
+  - title: "follow me📢"
+    url: /follow/
+#  - title: "Hobbies"
+#    url: /hobbies/  
+#  - title: "Gallery"
+#    url: /gallery/
+  - title: "Blog✍"
     url: /blog/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
