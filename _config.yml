@@ -109,10 +109,10 @@ analytics:
 author:
   name             : "Nima BoorBoor"
   avatar           : "/assets/images/pic.jpg"
-  bio              : I'm the best student.
+  bio              : I'm the web designer and student.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
+  email            : ni_boorboor@comp.iust.ac.ir
+  #twitter: sauleh_e
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: sauleh
