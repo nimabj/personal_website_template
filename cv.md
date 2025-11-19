@@ -9,25 +9,23 @@ comments: false
 ---
 
 
-# 
+## My abilities
 
-werwe
-rwe
+- web design: I love this job and I started when I was about 13 years old.
+- My work sample : https://yasharheshmati.ir
+- Futsal: I am interested in sports and futsal and I played for the Iraqi Martyr team for about 2 years.
 
-## Tehran
-lsdfksd
-
-### Azadi
-### Enghelab
-
-- mored 1
-- mored 2
-
-My favorite website is [yahoo](http://www.yahoo.com).
+## Where did I study?
+- I am a graduate of Sampad School (Allamah [Heli2](https://helli2.ir/) and [10](https://helli10.ir/)) and I have gained very useful experiences in these schools
+- One of the reasons why I am at the University of Science and Technology is definitely because of these schools.
+![Painting](https://upload.wikimedia.org/wikipedia/commons/a/ac/Sampad.svg)
 
 
-## Esfahan
-ldkfjs
+
+## My personal qualities and characteristics
+- Interested in teamwork
+- Interest in programming and computers
+- Interested in entrepreneurship
 
 ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
 
