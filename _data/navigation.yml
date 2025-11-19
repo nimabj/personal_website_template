@@ -4,6 +4,8 @@ main:
     url: /cv/
 #  - title: "Courses"
 #   url: /courses/
+  - title: "project"
+    url: /project/
 #  - title: "Friends"
 #    url: /friends/
   - title: "Links"
